@@ -56,10 +56,7 @@ All outputs are visually compared side-by-side with the original grayscale image
 
 **Output**:
 - Visual comparison of original and blurred versions.
-- Output files:
-  - `gray_avg_3x3.png`
-  - `gray_avg_10x10.png`
-  - `gray_avg_20x20.png`
+
 
 ---
 
@@ -73,9 +70,6 @@ All outputs are visually compared side-by-side with the original grayscale image
 
 **Output**:
 - Side-by-side view of original and rotated versions.
-- Output files:
-  - `gray_rotated_45.png`
-  - `gray_rotated_90.png`
 
 ---
 
@@ -89,10 +83,6 @@ All outputs are visually compared side-by-side with the original grayscale image
 
 **Output**:
 - Pixelated-style comparison (original vs block-averaged).
-- Output files:
-  - `gray_block_avg_3x3.png`
-  - `gray_block_avg_5x5.png`
-  - `gray_block_avg_7x7.png`
 
 ---
 
